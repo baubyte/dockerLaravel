@@ -1,0 +1,3 @@
+#!/bin/bash
+
+docker exec -it laraveldev-db bash -c "mysql -u root -padmin.root"

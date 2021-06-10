@@ -1,2 +1,1 @@
-# dockerLaravel
-Simple Contenedor oara Laravel
+## Docker con todo lo necesario para levantar Laravel
